@@ -1,0 +1,4 @@
+Log Mesajı
+
+Appended something!
+Log Mesajı
